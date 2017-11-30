@@ -1,4 +1,3 @@
-
 require_relative 'abfragen_checkliste'
 require_relative 'classes'
 require_relative 'vermittlung'

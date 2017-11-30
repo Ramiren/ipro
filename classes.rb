@@ -1,4 +1,4 @@
-lass Vorlesung
+class Vorlesung
   def initialize(abk, name, dozent, klasse)
     @vorlesung = {abk => [name, dozent, klasse]}
   end

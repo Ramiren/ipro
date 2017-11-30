@@ -1,4 +1,4 @@
-require_relative 'classes'
+
 
 def abfragen_checkliste
 def abfrage(text)
