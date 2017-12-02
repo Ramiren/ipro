@@ -1,4 +1,4 @@
-require_relative 'abfragen_checkliste'
+require_relative 'aufzeichnung'
 require_relative 'classes'
 require_relative 'vermittlung'
 
@@ -26,7 +26,8 @@ case auswahl
   when "3"
     puts
         puts "Aufzeichnung"
-        abfragen_checkliste
+	fragen
+        checkliste
         
   when "4"
     puts
